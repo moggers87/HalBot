@@ -1,0 +1,6 @@
+[submodule "MegBot"]
+	path = MegBot
+	url = https://github.com/xray7224/MegBot.git
+[submodule "megahal"]
+	path = megahal
+	url = https://github.com/moggers87/megahal.git
